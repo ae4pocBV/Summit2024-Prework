@@ -40,3 +40,6 @@ All the attendees need to finish the prework by following this Readme.
 
 9. This action will start a pop-up window in the browser to ask for your username and password for GitHub, after you type it, MATLAB will remember it and you don't need to type it anymore.
 
+**********************************************
+# bv20240228: Needed to create Token before successful Push
+# ref: https://docs.github.com/en/enterprise-server@3.9/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
