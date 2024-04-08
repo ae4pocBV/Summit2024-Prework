@@ -48,3 +48,5 @@ All the attendees need to finish the prework by following this Readme.
 **********************************************
 # bv20240408: Revisit with MATLAB Version: 24.1.0.2537033 (R2024a)
 # see refSummit2024 (x1231)
+# git credential-manager configure
+# signin - token
