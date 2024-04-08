@@ -19,7 +19,7 @@ All the attendees need to finish the prework by following this Readme.
 5. Start MATLAB R2024a, in the `file explorer` tab of MATLAB create a new folder
    ![folder](folder.png)
  
-   Go inside this folder, and use right click of the mouse to clone ypur forked repo
+   Go inside this folder, and use right click of the mouse to clone your forked repo
    ![GitClone1](GitClone1.png) 
    ![GitClone2](GitClone2.png)
 
@@ -28,13 +28,13 @@ All the attendees need to finish the prework by following this Readme.
 6. Goto the folder you have the repo has been cloned, in the MATLAB command window, run `mex convec.c` to compile a mex file. If it works, then you can go to next step, if that fails, you need to install MATLAB compiler and MinGW compiler if you didn't do so. You can do so by running `installMinGW` from the command line or through MATLAB Add-Ons. 
 
     MinGW:![MinGW](MinGW.png) 
-    Compiler:![Compiler](Compiler.png)
+    MATLAB Compiler:![Compiler](Compiler.png)
 
     After that, run `mex -setup` to setup the compiler in MATLAB and make sure `mex convec.c` command works.
 
-7. Install compiler SDK and MATLAB Test if you didn't install it
+7. Install MATLAB Compiler SDK and MATLAB Test if you didn't install it
 
-    Compiler SDK:![Compiler-SDK](Compiler-SDK.png)
+    MATLAB Compiler SDK:![Compiler-SDK](Compiler-SDK.png)
     MATLAB Test:![MATLAB Test](MATLAB-Test.png)
 
 8. Make some changes to this readme file in your cloned repo. Use MATLAB to commit the change and push the change. ![push](push.png)
@@ -44,3 +44,7 @@ All the attendees need to finish the prework by following this Readme.
 **********************************************
 # bv20240228: Needed to create Token before successful Push
 # ref: https://docs.github.com/en/enterprise-server@3.9/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+
+**********************************************
+# bv20240408: Revisit with MATLAB Version: 24.1.0.2537033 (R2024a)
+# see refSummit2024 (x1231)
