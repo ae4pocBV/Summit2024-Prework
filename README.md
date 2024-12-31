@@ -40,6 +40,8 @@ All the attendees need to finish the prework by following this Readme.
 8. Make some changes to this readme file in your cloned repo. Use MATLAB to commit the change and push the change. ![push](push.png)
 
 9. This action will start a pop-up window in the browser to ask for your username and password for GitHub, after you type it, MATLAB will remember it and you don't need to type it anymore.
+**********************************************
+# bv20241231: Reactivate expiring Token in GitHub; Commit and push from R2024b
 
 **********************************************
 # bv20240228: Needed to create Token before successful Push
